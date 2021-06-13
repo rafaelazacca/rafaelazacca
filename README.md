@@ -15,11 +15,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="left">Hi there 👋</h1>
-
-<h3 align="left"> ⚡ I'm Full Stack Developer.</h3>
+<h3 align="left"> ⭐I'm Rafaela,</h3>
+<h3 align="left"> ⚡Full Stack Developer.</h3>
 <h3 align="left"> :high_brightness:  I’m currently studying Java, MySql and Angular at Generation Brazil.</h3>
 <h3 align="left"> 📫 How to reach me:
-[LinkedIn](https://www.linkedin.com/in/rafaela-zaccarias/)
+  <a href="https://www.linkedin.com/in/rafaela-zaccarias/">LinkedIn</a>
+</h3>
+
+
 
 
 
