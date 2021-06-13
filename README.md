@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rafaelazacca&show_icons=true&theme=material-palenight" alt="rafaelazacca" /></p>
+
 
 
 
@@ -39,3 +39,7 @@ Here are some ideas to get you started:
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=rafaelazacca&layout=compact&theme=material-palenight" />
 </a>
+
+<p></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rafaelazacca&show_icons=true&theme=material-palenight" alt="rafaelazacca" /></p>
