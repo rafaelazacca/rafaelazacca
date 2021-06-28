@@ -42,4 +42,4 @@ Here are some ideas to get you started:
 
 <p></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rafaelazacca&show_icons=true&theme=material-palenight" alt="rafaelazacca" /></p>
+
